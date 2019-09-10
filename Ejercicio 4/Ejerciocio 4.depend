@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1566833143 source:c:\users\alumno\desktop\ejerciocio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1566867825 source:c:\users\santiago\desktop\ejerciocio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567005707 source:c:\users\alumno\desktop\laboratorio-rec-i-master\laboratorio-rec-i-master\ejercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"biblioteca.h"
+
+1567004591 source:c:\users\alumno\desktop\laboratorio-rec-i-master\laboratorio-rec-i-master\ejercicio 4\biblioteca.c
+
+1567004591 c:\users\alumno\desktop\laboratorio-rec-i-master\laboratorio-rec-i-master\ejercicio 4\biblioteca.h
+
+1567200216 source:c:\users\santiago\desktop\laboratorio-rec-i-master (5)\laboratorio-rec-i-master\ejercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	"biblioteca.h"
+
+1567005864 c:\users\santiago\desktop\laboratorio-rec-i-master (5)\laboratorio-rec-i-master\ejercicio 4\biblioteca.h
+
+1567005864 source:c:\users\santiago\desktop\laboratorio-rec-i-master (5)\laboratorio-rec-i-master\ejercicio 4\biblioteca.c
+
