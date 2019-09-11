@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1568144809 source:c:\users\santiago\desktop\ejercicio 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1568144809 source:c:\users\santiago\desktop\ejercicio 8\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+
+1568165593 c:\users\santiago\desktop\ejercicio 8\biblioteca.h
+
