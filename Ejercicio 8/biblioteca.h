@@ -55,4 +55,23 @@ Param5: Rango mínimo valido para el ingreso
 Param6: Cantidad de veces que puede ingresarlo con error
 Para3: Valor con el que se inicializa
 */
-int getInt(	int *pResultado, char *pMensaje, char *pMensajeError, int minimo, int maximo, int reintentos);
+
+int getInt(	int *pResultado,char *pMensaje,char *pMensajeError,int minimo,int maximo,int reintentos);
+
+/** \brief
+ *
+ * \param
+ * \param
+ * \return
+ *
+ */
+
+char getArrayChar(char*pArray,int limite,char*mensaje);
+/** \brief
+ *
+ * \param
+ * \param
+ * \return
+ *
+ */
+void printArrayChar(int *pArray , int limite);

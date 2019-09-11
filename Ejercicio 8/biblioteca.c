@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "UTN_Inputs.h"
+
 
 int getInt(	int *pResultado,
 			char *pMensaje,
@@ -47,7 +47,7 @@ int printArrayInt(int *pArray , int limite)
 {
 	int retorno = -1;
 	int i;
-	printf("\nDEBUG\n");
+	printf("\nNota\n");
 	if(pArray != NULL && limite > 0)
 	{
 		for(i=0;i<limite;i++)
@@ -87,7 +87,7 @@ int getArrayInt(int *pArray,
 				}
 			}
 
-			printf("Continuar (s/n)? \n");
+			printf("Continuar (s/n)? : ");
 			fflush(stdin); // __fpurge(stdin)
 			scanf("%c",&respuesta);
 		}while(respuesta != 'n');
@@ -183,3 +183,35 @@ int OrdenaArrayInt(int* pArray,int limite)
 
    return 0;
 }
+char getArrayChar(char*pArray,int limite,char*mensaje)
+{
+	char buffer;
+	int i=0;
+    //char respuesta;
+
+for(i=0;i<limite;i++)
+		{
+		    printf("\n%s: ",mensaje);
+	        fflush(stdin);
+	        scanf("%c",&buffer);
+			pArray[i]=buffer;
+			//printf("%c",pArray[i]);
+		}
+		return 0;
+}
+/*int printArrayChar(int *pArray , int limite)
+{
+	int retorno = -1;
+	int i;
+	printf("\nSexo:");
+
+		for(i=0;i<limite;i++)
+		{
+			printf("\n\t%c",pArray[i]);
+		}
+		retorno = 0;
+
+    return retorno;
+}*/
+
+
