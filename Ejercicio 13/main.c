@@ -1,14 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define CANTIDAD 5
+#define CANTIDAD 2
+
+typedef struct
+{
+    char calle[20];
+    int numero;
+}eDireccion;
 
 typedef struct
    {
        char nombre[20];
        char apellido[20];
-       char calle[20];
-       int numero[20];
+       eDireccion domicilio;
    }eDatosPersonales;
 
 
@@ -19,18 +24,24 @@ int main()
     int i;
     for(i=0;i<CANTIDAD;i++)
     {
-    printf("Inngrese un nombre: ");
+    printf("Ingrese un nombre: ");
     gets(vec[i].nombre);
-    fflush(stdin);
-    printf("Inngrese un apellido: ");
+    printf("Ingrese un apellido: ");
     gets(vec[i].apellido);
-    fflush(stdin);
-    printf("Inngrese una calle: ");
-    gets(vec[i].calle);
-    fflush(stdin);
-    printf("Inngrese el numero: ");
-    scanf("%d",vec[i].numero);
+    printf("Ingrese una calle: ");
+    gets(vec[i].domicilio.calle);
+    printf("Ingrese el numero: \n");
+    scanf("%d",&vec[i].domicilio.numero);
     fflush(stdin);
     }
+
+for(i=0;i<CANTIDAD;i++)
+    {
+        printf("\n%d)El nombre es: %s \t",i,vec[i].nombre);
+        printf("El apellido es: %s \t",vec[i].apellido);
+        printf("El calle es: %s \t",vec[i].domicilio.calle);
+        printf("El numero es: %d \n",vec[i].domicilio.numero);
+    }
+
  return 0;
 }
