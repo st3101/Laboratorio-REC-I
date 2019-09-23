@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1569277416 source:c:\users\santiago\desktop\ejercicio 16\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+	"hora.h"
+
+1569277447 c:\users\santiago\desktop\ejercicio 16\biblioteca.h
+	"hora.h"
+
+1569277416 source:c:\users\santiago\desktop\ejercicio 16\biblioteca.c
+	"biblioteca.h"
+	"hora.h"
+
+1569277416 c:\users\santiago\desktop\ejercicio 16\hora.h
+
