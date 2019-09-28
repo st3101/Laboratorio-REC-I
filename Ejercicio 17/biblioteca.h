@@ -12,7 +12,7 @@ typedef struct
 void getInt(int*numero,char*pMensaje);
 void inicializarDisponible(eAlumno array[],int limite);
 void darDeAlta(eAlumno array[],char*pMensaje1,char*pMensaje2,char*eMensajeError,int limite);
-void darDeBaja(eAlumno array[],char*pMensaje);
-void modificar(eAlumno array[],char*pMensaje1,char*pMensaje2);
+void darDeBaja(eAlumno array[],char*pMensaje,char*pMensajeError,int limite);
+void modificar(eAlumno array[],char*pMensaje1,char*pMensaje2,char*pMesanje3,char*pMensaje4,int limite);
 
 #endif // BIBLIOTECA_H_INCLUDED

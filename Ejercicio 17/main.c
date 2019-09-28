@@ -20,10 +20,10 @@ int main()
             darDeAlta(arrayAlumno,"Ingrese el nombre: ","Ingrese el apello: ","No hay lugar disponible.",CTD_ALUMNO);
             break;
         case 2:
-            darDeBaja(arrayAlumno,"Ingrese el legajo de la persona que quiere dar de baja: ");
+            darDeBaja(arrayAlumno,"Ingrese el legajo de la persona que quiere dar de baja: ","Error, ingrese un legajo valido: ",CTD_ALUMNO);
             break;
         case 3:
-            modificar(arrayAlumno,"Ingrese el legajo de la persona que quiere modificar: ","1)Modificar el nombre\n2)modificar el apellido"); //quedaste aca
+            modificar(arrayAlumno,"Ingrese el legajo de la persona que quiere modificar: ","1)Modificar el nombre\n2)modificar el apellido","Nombre nuevo: ","Apellido nuevo: ",CTD_ALUMNO);
 
     }
     }while(1==1);
