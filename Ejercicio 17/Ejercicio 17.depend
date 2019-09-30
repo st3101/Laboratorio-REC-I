@@ -24,3 +24,16 @@
 	<stdlib.h>
 	"biblioteca.h"
 
+1569804171 source:c:\users\santiago\desktop\laboratorio-rec-i-master (10)\laboratorio-rec-i-master\ejercicio 17\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1569802836 c:\users\santiago\desktop\laboratorio-rec-i-master (10)\laboratorio-rec-i-master\ejercicio 17\biblioteca.h
+
+1569806468 source:c:\users\santiago\desktop\laboratorio-rec-i-master (10)\laboratorio-rec-i-master\ejercicio 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
