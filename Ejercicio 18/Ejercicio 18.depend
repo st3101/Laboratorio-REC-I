@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1569373915 source:c:\users\santiago\desktop\ejercicio 17\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1569373897 source:c:\users\santiago\desktop\ejercicio 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1569373897 c:\users\santiago\desktop\ejercicio 17\biblioteca.h
+
+1569698415 source:c:\users\santiago\desktop\laboratorio-rec-i-master\laboratorio-rec-i-master\ejercicio 17\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1569696374 c:\users\santiago\desktop\laboratorio-rec-i-master\laboratorio-rec-i-master\ejercicio 17\biblioteca.h
+
+1569696374 source:c:\users\santiago\desktop\laboratorio-rec-i-master\laboratorio-rec-i-master\ejercicio 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1569804171 source:c:\users\santiago\desktop\laboratorio-rec-i-master (10)\laboratorio-rec-i-master\ejercicio 17\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1569802836 c:\users\santiago\desktop\laboratorio-rec-i-master (10)\laboratorio-rec-i-master\ejercicio 17\biblioteca.h
+
+1569806468 source:c:\users\santiago\desktop\laboratorio-rec-i-master (10)\laboratorio-rec-i-master\ejercicio 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1569806819 source:c:\users\alumno\desktop\laboratorio-rec-i-master\ejercicio 17\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1569806819 c:\users\alumno\desktop\laboratorio-rec-i-master\ejercicio 17\biblioteca.h
+
+1569806819 source:c:\users\alumno\desktop\laboratorio-rec-i-master\ejercicio 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1570022705 source:c:\users\alumno\desktop\ejercicio 18\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+	"carrera.h"
+	"curso.h"
+	"materia.h"
+
+1570022470 c:\users\alumno\desktop\ejercicio 18\biblioteca.h
+	"biblioteca.h"
+	"carrera.h"
+	"curso.h"
+	"materia.h"
+
+1570022501 source:c:\users\alumno\desktop\ejercicio 18\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+	"carrera.h"
+	"curso.h"
+	"materia.h"
+
+1570017977 c:\users\alumno\desktop\ejercicio 18\carrera.h
+
+1570017846 c:\users\alumno\desktop\ejercicio 18\curso.h
+
+1570017647 c:\users\alumno\desktop\ejercicio 18\materia.h
+
