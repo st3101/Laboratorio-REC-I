@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1570639822 source:d:\santiago leonardi\santiago leonardi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+	"color.h"
+	"fecha.h"
+	"input.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+
+1570640257 source:d:\santiago leonardi\santiago leonardi\auto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"auto.h"
+	"color.h"
+	"fecha.h"
+	"input.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+
+1570637303 source:d:\santiago leonardi\santiago leonardi\color.c
+	"auto.h"
+	"color.h"
+	"fecha.h"
+	"input.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+
+1570637303 source:d:\santiago leonardi\santiago leonardi\fecha.c
+	"auto.h"
+	"color.h"
+	"fecha.h"
+	"input.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+
+1570637381 source:d:\santiago leonardi\santiago leonardi\input.c
+	"auto.h"
+	"color.h"
+	"fecha.h"
+	"input.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+
+1570638629 d:\santiago leonardi\santiago leonardi\auto.h
+
+1570636597 d:\santiago leonardi\santiago leonardi\color.h
+
+1570636098 d:\santiago leonardi\santiago leonardi\fecha.h
+
+1570637543 d:\santiago leonardi\santiago leonardi\input.h
+
+1570636552 d:\santiago leonardi\santiago leonardi\marca.h
+
+1570636098 d:\santiago leonardi\santiago leonardi\servicio.h
+
+1570637567 d:\santiago leonardi\santiago leonardi\trabajo.h
+
+1570637303 source:d:\santiago leonardi\santiago leonardi\marca.c
+	"auto.h"
+	"color.h"
+	"fecha.h"
+	"input.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+
+1570637303 source:d:\santiago leonardi\santiago leonardi\servicio.c
+	"auto.h"
+	"color.h"
+	"fecha.h"
+	"input.h"
+	"marca.h"
+	"servicio.h"
+	"trabajo.h"
+
+1570637567 source:d:\santiago leonardi\santiago leonardi\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
